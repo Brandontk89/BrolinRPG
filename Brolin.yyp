@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "23041b0b-71d5-45d5-9086-a1db05d8c91c",
+            "Value": {
+                "id": "0bc64a72-c7e3-4520-b2be-d6513200ed1b",
+                "resourcePath": "scripts\\PlayerStateFree\\PlayerStateFree.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2b994d5f-c86c-4382-8901-dda439d7902c",
             "Value": {
                 "id": "c09d4bb4-2151-492f-b672-e053fd7c15cd",
@@ -108,6 +116,14 @@
                 "id": "51d68383-230d-45a5-9c47-d98f2dac1449",
                 "resourcePath": "views\\4c05d62b-d131-478c-896c-6da0633dcb46.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59029529-505b-48df-8258-5bc958432c73",
+            "Value": {
+                "id": "6fe42418-0189-4634-856a-ba6a682ce372",
+                "resourcePath": "scripts\\PlayerStateRoll\\PlayerStateRoll.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "476ad005-ceb5-4a8f-88ab-9dfa537c682d",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a7489f7d-1308-4eb4-8ac5-37f1cb117a9b",
+            "Value": {
+                "id": "24c79c0e-594f-42e9-8168-e6384204cd44",
+                "resourcePath": "sprites\\s_player_roll\\s_player_roll.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -298,7 +322,9 @@
     "script_order": [
         "7e54fb5e-e7aa-4267-a79a-07f9821ec126",
         "1caa4223-e190-4c1d-86df-46dd034adf97",
-        "60a6b20b-3e98-4d4f-be4d-f745cbc4d410"
+        "60a6b20b-3e98-4d4f-be4d-f745cbc4d410",
+        "23041b0b-71d5-45d5-9086-a1db05d8c91c",
+        "59029529-505b-48df-8258-5bc958432c73"
     ],
     "tutorial": ""
 }
