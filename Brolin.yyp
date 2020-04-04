@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "284e4639-2933-4d53-875a-74e43c62e931",
+            "Value": {
+                "id": "fee6975a-32d8-43be-9286-0800d407ba6b",
+                "resourcePath": "objects\\o_text\\o_text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b994d5f-c86c-4382-8901-dda439d7902c",
             "Value": {
                 "id": "c09d4bb4-2151-492f-b672-e053fd7c15cd",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "74c3bc96-95b8-4b97-a5cc-2fc74630267f",
+            "Value": {
+                "id": "1ecaf862-bae0-4b19-ab27-58169a8c3f44",
+                "resourcePath": "fonts\\f_Text\\f_Text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "c2e015cf-0176-4c62-9bdf-791c1f899304",
@@ -204,6 +220,14 @@
                 "id": "1448c2a8-7890-4f8c-bec1-01951767074a",
                 "resourcePath": "views\\7fe8ee8b-6cfe-4c73-8d5a-0a6aff6cc245.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "80399da3-805b-404d-8540-0792e9f61188",
+            "Value": {
+                "id": "b0c510c5-f8db-48d2-9ba4-41715c146946",
+                "resourcePath": "scripts\\NineSliceBoxStretched\\NineSliceBoxStretched.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -268,6 +292,14 @@
                 "id": "9adab53c-32f4-40ce-9cb7-c93db0c78802",
                 "resourcePath": "views\\aee6cd65-a357-4576-b0eb-35cb928f8dbc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b890e861-b76f-478e-a34a-02e819cd025f",
+            "Value": {
+                "id": "ceb44570-82e0-45f1-a15f-46c2e249c4e6",
+                "resourcePath": "sprites\\s_TextBoxBg\\s_TextBoxBg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -405,7 +437,8 @@
         "60a6b20b-3e98-4d4f-be4d-f745cbc4d410",
         "23041b0b-71d5-45d5-9086-a1db05d8c91c",
         "59029529-505b-48df-8258-5bc958432c73",
-        "f1ac6d86-c346-4c78-8ed7-1439cf838dae"
+        "f1ac6d86-c346-4c78-8ed7-1439cf838dae",
+        "80399da3-805b-404d-8540-0792e9f61188"
     ],
     "tutorial": ""
 }
