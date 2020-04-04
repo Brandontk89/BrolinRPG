@@ -15,3 +15,9 @@ if (moveDistanceRemaining <= 0)
 {
 	state = PlayerStateFree;
 }
+
+if (_collided)
+{
+	state = PlayerStateFree;
+	ScreenShake ( 8, 10)
+}

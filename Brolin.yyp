@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "115762aa-17d7-4dd4-8bcb-43fae35e4859",
+            "Value": {
+                "id": "7b926df8-ae24-41fb-b367-6fe1f8da7a3e",
+                "resourcePath": "objects\\o_camera\\o_camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1708ebf0-1f0a-43a4-8502-38ce8139baf0",
             "Value": {
                 "id": "811ab687-8a9e-4f14-bc5c-1471670458c8",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "e60aa9c3-05a3-4785-8251-49affbed453c",
+            "Value": {
+                "id": "908d5745-fba7-4438-8e8d-0e70fbf249e8",
+                "resourcePath": "views\\e60aa9c3-05a3-4785-8251-49affbed453c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e6c76364-3bed-4c4e-bbbd-e99993dd651e",
             "Value": {
                 "id": "8f607ff6-0bc9-4da5-a776-061bbf7814f3",
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "f1ac6d86-c346-4c78-8ed7-1439cf838dae",
+            "Value": {
+                "id": "df390eec-43d9-4f9b-b70b-f50645529d97",
+                "resourcePath": "scripts\\ScreenShake\\ScreenShake.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f3d6a8f1-037e-4abb-a4a6-84d35fa0ef23",
             "Value": {
                 "id": "c6ec959d-6138-49c7-9710-d11d3b6a8039",
@@ -380,7 +404,8 @@
         "1caa4223-e190-4c1d-86df-46dd034adf97",
         "60a6b20b-3e98-4d4f-be4d-f745cbc4d410",
         "23041b0b-71d5-45d5-9086-a1db05d8c91c",
-        "59029529-505b-48df-8258-5bc958432c73"
+        "59029529-505b-48df-8258-5bc958432c73",
+        "f1ac6d86-c346-4c78-8ed7-1439cf838dae"
     ],
     "tutorial": ""
 }
