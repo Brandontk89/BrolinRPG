@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "309b4b41-4e1c-4acb-9a19-7806fa7adf07",
+            "Value": {
+                "id": "ccde3482-23d4-4bcb-b2f4-c16167ec1319",
+                "resourcePath": "tilesets\\tTiles\\tTiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "340dab02-4431-4f2a-938f-a4d231ecb947",
+            "Value": {
+                "id": "df6224c3-3613-459f-8efd-07a598353723",
+                "resourcePath": "sprites\\s_tiles\\s_tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4aedf0af-dbf0-457f-a8a3-095d964a0d0a",
             "Value": {
                 "id": "90e877bd-6cb1-48c3-9462-e51315eb2ff6",
@@ -199,11 +215,27 @@
             }
         },
         {
+            "Key": "961febf0-8f21-4f15-9312-3216256a3376",
+            "Value": {
+                "id": "203de60b-44d5-4f2a-a863-ed81103e9317",
+                "resourcePath": "rooms\\rInint\\rInint.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "476ad005-ceb5-4a8f-88ab-9dfa537c682d",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a3f16410-1d07-4efd-98b6-07ed78a83c07",
+            "Value": {
+                "id": "912876b1-f6ff-428a-ac54-e58a36dbbdf3",
+                "resourcePath": "views\\e909e1c6-f035-4a8b-9643-ebdc71f29b7a-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -279,11 +311,27 @@
             }
         },
         {
+            "Key": "e12a6075-947f-496e-ad67-a8614513ba09",
+            "Value": {
+                "id": "d7e5cb29-7afb-4457-886b-f30710226767",
+                "resourcePath": "views\\a41f15cc-6cb1-443a-a383-5f0357cf6112-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "f92dd258-4ab5-4d60-b2a3-3bc9010cccc7",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e6c76364-3bed-4c4e-bbbd-e99993dd651e",
+            "Value": {
+                "id": "8f607ff6-0bc9-4da5-a776-061bbf7814f3",
+                "resourcePath": "objects\\o_game\\o_game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -298,7 +346,7 @@
             "Key": "e909e1c6-f035-4a8b-9643-ebdc71f29b7a",
             "Value": {
                 "id": "885ebfc7-9923-4bb2-bb4b-5b85a0c521c9",
-                "resourcePath": "rooms\\Col\\Col.yy",
+                "resourcePath": "rooms\\rParent\\rParent.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -308,6 +356,14 @@
                 "id": "fc67e7fc-b2a8-4980-b046-1a7623b72c66",
                 "resourcePath": "views\\ed90d848-20e9-43e3-a851-55f47bd56bad.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3d6a8f1-037e-4abb-a4a6-84d35fa0ef23",
+            "Value": {
+                "id": "c6ec959d-6138-49c7-9710-d11d3b6a8039",
+                "resourcePath": "rooms\\rVillage\\rVillage.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
