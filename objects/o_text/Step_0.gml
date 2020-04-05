@@ -10,6 +10,14 @@ if (keyboard_check_pressed(vk_space))
 	if (textProgress >= _messageLength)
 	{
 		instance_destroy();	
+		if (instance_exists(o_text_queued))
+		{
+			with (o_text_queued) ticket--;	
+		}
+		else
+		{
+			with (o_player) state = lastState	
+		}
 	}
 	else
 	{

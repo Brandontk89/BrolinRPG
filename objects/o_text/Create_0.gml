@@ -8,6 +8,3 @@ x2Target = RESOLUTION_W;
 
 lerpProgress = 0;
 textProgress = 0;
-
-message = "Bush flew the planes into Twin Towers.";
-background = 0;
