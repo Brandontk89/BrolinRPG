@@ -9,6 +9,4 @@ x2Target = RESOLUTION_W;
 lerpProgress = 0;
 textProgress = 0;
 
-
-responses = ["Wow this is a test, fuck you man", "This is the second test just calm down"];
 responseSelected = 0;
