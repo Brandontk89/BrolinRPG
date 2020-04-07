@@ -18,14 +18,6 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "16318e81-184c-4ec0-a0e8-77cd733e4a13",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e",
-            "propertyId": "fb0883d2-c340-46f6-844c-4340dbaa69ad",
-            "value": "True"
-        },
-        {
             "id": "d2f235b8-0148-45c9-a6cf-d76470dc8c05",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
@@ -39,7 +31,7 @@
             "mvc": "1.0",
             "objectId": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e",
             "propertyId": "0d7e5401-d8f3-422e-bdc2-9d701881d312",
-            "value": "[\"Good mornin' fucker!\",1]"
+            "value": "[\"Good mornin' fucker!\",1,[\"1:Fuck yeah it is good morning\",\"2:Wow man its fucking Sunday respect God\"]]"
         }
     ],
     "parentObjectId": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e",

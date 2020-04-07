@@ -1,3 +1,8 @@
+/// @arg Message
+/// @arg Background
+/// @arg Array
+
+
 var _obj;
 if (instance_exists(o_text)) _obj = o_text_queued; else _obj = o_text;
 with (instance_create_layer(0,0,"Instances",_obj))
