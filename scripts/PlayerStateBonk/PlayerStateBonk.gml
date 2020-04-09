@@ -10,7 +10,7 @@ sprite_index = s_player_hurt;
 image_index = CARDINAL_DIR - 2;
 
 ///Change Height
-z = sin(((moveDistaceRemaining / distanceBonk) * pi)) * distanceBonkHeight;
+z = sin(((moveDistanceRemaining / distanceBonk) * pi)) * distanceBonkHeight;
 
 //Change State
 if (moveDistanceRemaining <= 0)
