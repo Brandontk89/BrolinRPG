@@ -23,6 +23,16 @@
             "enumb": 4,
             "eventtype": 7,
             "m_owner": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e"
+        },
+        {
+            "id": "fc078a9d-d7ca-4343-a6be-e87991a6c5ef",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -97,6 +107,34 @@
             "value": "0",
             "varName": "entityNPC",
             "varType": 3
+        },
+        {
+            "id": "2b44b971-2c0f-489c-bd8e-7e68336d85aa",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "entityShadow",
+            "varType": 3
+        },
+        {
+            "id": "b1738fba-c954-4606-ae66-90d7cc455644",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "z",
+            "varType": 0
         }
     ],
     "solid": false,

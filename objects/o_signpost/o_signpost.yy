@@ -15,6 +15,14 @@
             "objectId": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e",
             "propertyId": "94ba216f-416d-4699-8172-2fb4cb9feb47",
             "value": "NewTextBox"
+        },
+        {
+            "id": "8974e5ac-a293-4b91-ae37-90bee3789934",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e",
+            "propertyId": "2b44b971-2c0f-489c-bd8e-7e68336d85aa",
+            "value": "False"
         }
     ],
     "parentObjectId": "01a32c0a-bbf6-4d46-baa2-cbe46e1a0c2e",

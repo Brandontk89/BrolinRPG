@@ -1,5 +1,4 @@
-draw_sprite(s_shadow,0,floor(x),floor(y));
-
+if (entityShadow) draw_sprite(s_shadow,0,floor(x),floor(y));
 
 draw_sprite_ext(
 	sprite_index,
