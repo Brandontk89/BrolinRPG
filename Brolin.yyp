@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "6f8bacca-9403-450c-b7d9-fda52089f0ed",
+            "Value": {
+                "id": "86f44624-b4bf-4c9b-bba3-c9c2d420f05e",
+                "resourcePath": "sprites\\s_PlayerAttack_SlashHB\\s_PlayerAttack_SlashHB.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74c3bc96-95b8-4b97-a5cc-2fc74630267f",
             "Value": {
                 "id": "1ecaf862-bae0-4b19-ab27-58169a8c3f44",
@@ -543,6 +551,14 @@
             }
         },
         {
+            "Key": "f9af6075-1568-41c3-8c1f-e7e450759747",
+            "Value": {
+                "id": "e2d67bbb-fb35-4508-9ae5-7049fd1614c5",
+                "resourcePath": "scripts\\CalcAttack\\CalcAttack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fc33e8d9-5e21-4c32-87c3-63cba8216c6d",
             "Value": {
                 "id": "ffa30d74-f3e7-49af-9b66-d07fc56f91e0",
@@ -565,7 +581,8 @@
         "8f902437-a400-4635-924c-dc1a33fcace7",
         "8d3ae7c6-b326-4527-a824-b27464bdbd76",
         "fc33e8d9-5e21-4c32-87c3-63cba8216c6d",
-        "7bb53703-da0c-4fdf-a394-b88c435b05c1"
+        "7bb53703-da0c-4fdf-a394-b88c435b05c1",
+        "f9af6075-1568-41c3-8c1f-e7e450759747"
     ],
     "tutorial": ""
 }

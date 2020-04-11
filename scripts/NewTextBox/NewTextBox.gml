@@ -20,7 +20,6 @@ with (instance_create_layer(0,0,"Instances",_obj))
 			responseScripts[i] = string_copy(responses[i],1,_markerPosition-1);
 			responseScripts[i] = real(responseScripts[i]);
 			responses[i] = string_delete(responses[i],1,_markerPosition);
-			breakpoint = 10;
 		}		
 	}
 	else
