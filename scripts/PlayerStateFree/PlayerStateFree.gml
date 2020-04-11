@@ -16,7 +16,12 @@ if (_oldSprite != sprite_index) localFrame = 0;
 //Updating Image Index
 PlayerAnimateSprite();
 
-
+//Attack Key Logic
+if (keyAttack)
+{
+	state = PlayerStateAttack;
+	stateAttack = AttackSlash;
+}
 
 
 /// Activate Key Logic
